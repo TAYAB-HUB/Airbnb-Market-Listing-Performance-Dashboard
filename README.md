@@ -201,7 +201,7 @@
 
 <p>
   <img
-    src=""C:\Users\Dell\OneDrive\Documents\Airbnb Market & Listing Performance Dashboard\Market share and Ratings .png""
+    src="Market share and Ratings .png"
     alt="Airbnb Market Share and Ratings Dashboard"
     width="100%"
   />
@@ -209,7 +209,7 @@
 
 <p>
   <img
-    src=""C:\Users\Dell\OneDrive\Documents\Airbnb Market & Listing Performance Dashboard\Review Frequency and Seasonality.png""
+    src="Review Frequency and Seasonality.png"
     alt="Airbnb Review Frequency and Seasonality Dashboard"
     width="100%"
   />
