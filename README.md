@@ -193,7 +193,7 @@
 
 <p>
   <img
-    src=""C:\Users\Dell\OneDrive\Documents\Airbnb Market & Listing Performance Dashboard\Overview.png""
+    src= "Overview.png"
     alt="Airbnb Dashboard Overview"
     width="100%"
   />
